@@ -1,0 +1,17 @@
+.footer-menufooter-menu ul{margin: 0; padding: 0; list-style: none;}
+.footer-menu ul li{display: inline;}
+.footer-menu ul li a{display:inline-block;padding:10px;text-transform:uppercase}
+.footer-menu ul li a:hover{}
+.footer-menu{margin-top:40px;margin-bottom: -17px !important;}
+#nav ul{margin: 0; padding: 0; list-style:none;}
+#nav ul li{display: inline; float: left}
+#nav ul li a{display:inline-block;padding:10px;}
+#nav ul li a:hover{}
+#nav li{float: left; list-style: none;padding:15px;display: table;}
+#nav a{color:#000; font-weight: bolder;}
+#nav a:hover{color: #ddd; font-weight: bold; text-decoration: none;}
+.bg-unit ul{margin: 0; padding: 0; list-style: none;}
+.bg-unit li{list-style: none;}
+.bg-unit a{text-decoration: none;}
+.bg-unit{background-color:#DDD ; width: 244px; margin-right: 29px; border-radius: 11px; padding-bottom: 8px;}
+.span-main{margin-bottom: 25px;}
